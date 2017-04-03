@@ -1,0 +1,33 @@
+Mastodon,1999,1,Troy Sanders,Bill Kelliher,Brent Hinds,Brann Dailor,0,0,0,0,0,Metal,Progressive Metal
+Metallica,1981,1,James Hetfield,Kirk Hammett,Lars Ulrich,Robert Trujillo,0,0,0,0,0,Metal,Thrash Metal
+Megadeth,1983,1,Dave Mustaine,David Ellefson,Kiko Loureiro,Chris Adler,0,0,0,0,0,Metal,Thrash Metal
+Anthrax,1981,1,Joey Belladonna,Scott Ian,Charlie Benante,Frank Bello,Jonathan Donais,0,0,0,0,Metal,Thrash Metal
+Judas Priest,1969,1,Rob Halford,Ian Hill,Glenn Tipton,Scott Travis,Richie Faulkner,0,0,0,0,Metal,Heavy Metal
+Iron Maiden,1975,1,Bruce Dickinson,Steve Harris,Dave Murray,Adrian Smith,Nicko McBrain,Janick Gers,0,0,0,Metal,Heavy Metal
+Black Sabbath,1968,1,Ozzy Osbourne,Tony Iommi,Geezer Butler,0,0,0,0,0,0,Metal,Heavy Metal
+Pantera,1981,2003,Phil Anselmo,Dimebag Darrel,Vinnie Paul,Rex Brown,0,0,0,0,0,Metal,Groove Metal
+In Flames,1990,1,Anders Friden,Bjorn Gelotte,Peter Iwers,Niclas Engelin,0,0,0,0,0,Metal,Melodic Death Metal
+Alice In Chains,1987,1,William DuVall,Jerry Cantrell,Mike Inez,Sean Kinney,0,0,0,0,0,Metal,Alternative Metal
+Soulfly,1997,1,Max Cavalera,Marc Rizzo,Zyon Cavalera,Mike Leon,0,0,0,0,0,Metal,Groove Metal
+Sabaton,1999,1,Joakim Broden,Par Sundstrom,Thorbjorn Englund,Chris Rorland,Hannes van Dahl,0,0,0,0,Metal,Power Metal
+Machine Head,1991,1,Robb Flynn,Dave McClain,Phil Demmel,Jared MacEachren,0,0,0,0,0,Metal,Groove Metal
+Sepultura,1984,1,Paulo Jr.,Andreas Kisser,Derrick Green,Eloy Casagrande,0,0,0,0,0,Metal,Groove Metal
+Soilwork,1995,1,Bjorn Strid,Sylvain Coudret,David Andersson,Sven Karlsson,Markus Wibom,Dirk Verbeuren,0,0,0,Metal,Melodic Death Metal
+Voivod,1982,1,Michel "Away" Langevin,Denis "Snake" Belanger,Daniel "Chewy" Mongrain,Dominique "Rocky" Laroche,0,0,0,0,0,Metal,Thrash Metal
+Gojira,1996,1,Joe Duplantier,Mario Duplantier,Christian Andreu,Jean-Michel Labadie,0,0,0,0,0,Metal,Progressive Death Metal
+After The Burial,2004,1,Lerichard "Lee" Foral,Trent Hafdahl,Dan Carle,Anthony Notarmaso,0,0,0,0,0,Metal,Progressive Metal
+Alter Bridge,2004,1,Myles Kennedy,Mark Tremonti,Brian Marshall,Scott Phillips,0,0,0,0,0,Metal,Alternative Metal
+At The Gates,1990,1,Tomas Lindberg,Anders Bjorler,Adrian Erlandsson,Jonas Bjorler,Martin Larsson,0,0,0,0,Metal,Melodic Death Metal
+Children of Bodom,1993,1,Alexi Laiho,Jaska Raatikainen,Henkka Seppala,Janne Wirman,0,0,0,0,0,Metal,Melodic Death Metal
+Death,1983,2001,Chuck Schuldiner,Shannon Hamm,Scott Clendenin,Richard Christy,0,0,0,0,0,Metal,Death Metal
+Decapitated,1996,1,Wacàaw "Vogg" Kieàtyka,Rafaà "Rasta" Piotrowski,Paweà Pasek,Michaà ùysiejko,0,0,0,0,0,Metal,Technical Death Metal
+Exodus,1979,1,Tom Hunting,Gary Holt,Steve "Zetro" Souza,Jack Gibson,Lee Altus,0,0,0,0,Metal,Thrash Metal
+Fear Factory,1990,1,Burton C. Bell,Dino Cazares,Mike Heller,Tony Campos,0,0,0,0,0,Metal,Industrial Metal
+Lamb of God,1994,1,Randy Blythe,John Campbell,Chris Adler,Mark Morton,Willie Adler,0,0,0,0,Metal,Groove Metal
+Meshuggah,1987,1,Jens Kidman,Fredrik Thordendal,Tomas Haake,Marten Hagstrom,Dick Lovgren,0,0,0,0,Metal,Extreme Metal
+Queens of the Stone Age,1996,1,Josh Homme,Troy Van Leeuwen,Dean Fertita,Michael Shuman,Jon Theodore,0,0,0,0,Rock,Alternative Rock
+Slayer,1981,1,Tom Araya,Kerry King,Paul Bostaph,Gary Holt,0,0,0,0,0,Metal,Thrash Metal
+Tool,1990,1,Maynard James Keenan,Adam Jones,Danny Carey,Justin Chancellor,0,0,0,0,0,Metal,Progressive Metal
+Pink Floyd,1965,2014,David Gilmour,Nick Mason,0,0,0,0,0,0,0,Rock,Progressive Rock
+The Doors,1965,1973,Jim Morrison,Ray Manzarek,John Densmore,Robby Krieger,0,0,0,0,0,Rock,Psychedelic Rock
+Slipknot,1995,1,Corey Taylor,Mick Thomson,Jim Root,Shawn Crahan,Craig Jones,Sid Wilson,Chris Fehn,Alessandro Venturella,Jay Weinberg,Metal,Alternative Metal

@@ -1,0 +1,72 @@
+Remission,Mastodon,2001,Troy Sanders,Bill Kelliher,Brent Hinds,Brann Dailor,0,0,0,0,0,Matt Bayles,Relapse,Metal,Sludge Metal
+Leviathan,Mastodon,2004,Troy Sanders,Bill Kelliher,Brent Hinds,Brann Dailor,0,0,0,0,0,Matt Bayles,Relapse,Metal,Progressive Metal
+Blood Mountain,Mastodon,2006,Troy Sanders,Bill Kelliher,Brent Hinds,Brann Dailor,0,0,0,0,0,Matt Bayles,Reprise,Metal,Progressive Metal
+Crack The Skye,Mastodon,2009,Troy Sanders,Bill Kelliher,Brent Hinds,Brann Dailor,0,0,0,0,0,Brendan O'Brien,Reprise,Metal,Progressive Metal
+The Hunter,Mastodon,2011,Troy Sanders,Bill Kelliher,Brent Hinds, Brann Dailor,0,0,0,0,0,Mike Elizondo,Reprise,Metal,Progressive Metal
+Once More 'Round The Sun,Mastodon,2014,Troy Sanders, Bill Kelliher, Brent Hinds, Brann Dailor,0,0,0,0,0,Nick Raskulinecz,Reprise,Metal,Progressive Metal
+Lunar Strain,In Flames,1994,Mikael Stanne,Jesper Stromblad,Glenn Ljungstrom,Johann Larsson,Carl Naslund,0,0,0,0,In Flames,Wrong Again,Metal,Melodic Death Metal
+The Jester Race,In Flames,1996,Anders Friden,Jesper Stromblad,Glenn Ljungstrom,Johan Larsson,Bjorn Gelotte,0,0,0,0,Fredrik Nordstrom,Nuclear Blast,Metal,Melodic Death Metal
+L'Enfant Sauvage,Gojira,2012,Joe Duplantier,Mario Duplantier,Christian Andreu,Jean-Michel Labadie,0,0,0,0,0,Joe Duplantier,Roadrunner,Metal,Technical Death Metal
+Whoracle,In Flames,1997,Anders Friden,Jesper Stromblad,Glenn Ljungstrom,Johan Larsson,Bjorn Gelotte,0,0,0,0,Fredrik Nordstrom,Nuclear Blast,Metal,Melodic Death Metal
+Colony,In Flames,1999,Anders Friden,Jesper Stromblad,Bjorn Gelotte,Peter Iwers,Daniel Svensson,0,0,0,0,Fredrik Nordstrom & In Flames,Nuclear Blast,Metal,Melodic Death Metal
+Clayman,In Flames,2000,Anders Friden,Jesper Stromblad,Bjorn Gelotte,Peter Iwers,Daniel Svensson,0,0,0,0,Fredrik Nordstrom & In Flames,Nuclear Blast,Metal,Melodic Death Metal
+Reroute To Remain,In Flames,2002,Anders Friden,Jesper Stromblad,Bjorn Gelotte,Peter Iwers,Daniel Svensson,0,0,0,0,Daniel Bergstrand,Nuclear Blast,Metal,Melodic Death Metal
+Soundtrack to Your Escape,In Flames,2004,Anders Friden,Jesper Stromblad,Bjorn Gelotte,Peter Iwers,Daniel Svensson,Orjan Ornkloo,0,0,0,Daniel Bergstrand,Nuclear Blast,Metal,Melodic Death Metal
+Come Clarity,In Flames,2006,Anders Friden,Jesper Stromblad,Bjorn Gelotte,Peter Iwers,Daniel Svensson,0,0,0,0,In Flames,Nuclear Blast,Metal,Melodic Death Metal
+A Sense Of Purpose,In Flames,2008,Anders Friden,Jesper Stromblad,Bjorn Gelotte,Peter Iwers,Daniel Svensson,0,0,0,0,Roberto Laghi & Daniel Berstrand,Nuclear Blast & Koch,Metal,Alternative Metal
+Sounds of a Playground Fading,In Flames,2011,Anders Friden,Bjorn Gelotte,Peter Iwers,Daniel Svensson,0,0,0,0,0,Roberto Laghi & Anders Friden,Century Media & Razzia,Metal,Alternative Metal
+Siren Charms,In Flames,2014,Anders Friden,Bjorn Gelotte,Niclas Engelin,Peter Iwers,Daniel Svensson,0,0,0,0,Daniel Bergstrand & Roberto Laghi,Sony Music,Metal,Alternative Metal
+Reign In Blood,Slayer,1986,Tom Araya,Jeff Hanneman,Kerry King,Dave Lombardo,0,0,0,0,0,Rick Rubin,Def Jam,Metal,Thrash Metal
+South of Heaven,Slayer,1988,Tom Araya,Jeff Hanneman,Kerry King,Dave Lombardo,0,0,0,0,0,Rick Rubin,Def Jam,Metal,Thrash Metal
+Seasons in the Abyss,Slayer,1990,Tom Araya,Jeff Hanneman,Kerry King,Dave Lombardo,0,0,0,0,0,Rick Rubin,Def American,Metal,Thrash Metal
+Kill 'Em All,Metallica,1983,James Hetfield,Lars Ulrich,Kirk Hammett,Cliff Burton,0,0,0,0,0,Paul Curcio,Megaforce,Metal,Thrash Metal
+Ride the Lightning,Metallica,1984,James Hetfield,Kirk Hammett,Cliff Burton,Lars Ulrich,0,0,0,0,0,Flemming Rasmussen,Megaforce,Metal,Thrash Metal
+Master of Puppets,Metallica,1986,James Hetfield,Kirk Hammett,Cliff Burton,Lars Ulrich,0,0,0,0,0,Flemming Rasmussen,Elektra,Metal,Thrash Metal
+...And Justice For All,Metallica,1988,James Hetfield,Kirk Hammett,Jason Newsted,Lars Ulrich,0,0,0,0,0,Flemming Rasmussen,Elektra,Metal,Thrash Metal
+Slipknot,Slipknot,1999,Corey Taylor,Mick Thomson,Shawn Crahan,Craig Jones,Jim Root,Chris Fehn,Paul Gray,Joey Jordison,Sid Wilson,Ross Robinson,Roadrunner,Metal,Nu Metal
+Iowa,Slipknot,2001,Corey Taylor,Mick Thomson,Shawn Crahan,Craig Jones,Jim Root,Chris Fehn,Paul Gray,Joey Jordison,Sid Wilson,Ross Robinson,Roadrunner,Metal,Nu Metal
+Vol. 3: (The Subliminal Verses),Slipknot,2004,Corey Taylor,Mick Thomson,Shawn Crahan,Craig Jones,Jim Root,Chris Fehn,Paul Gray,Joey Jordison,Sid Wilson,Rick Rubin,Roadrunner,Metal,Heavy Metal
+Killing Is My Business... And Business ,Megadeth,1985,Dave Mustaine,David Ellefson,Chris Poland,Gar Samuelson,0,0,0,0,0,Dave Mustaine & Karat Faye,Combat,Metal,Thrash Metal
+Peace Sells... But Who's Buying?,Megadeth,1986,Dave Mustaine,David Ellefson,Chris Poland,Gar Samuelson,0,0,0,0,0,Dave Mustaine & Randy Burns,Capitol,Metal,Thrash Metal
+So Far So Good... So What!,Megadeth,1986,Dave Mustaine,David Ellefson,Jeff Young,Chuck Behler,0,0,0,0,0,Dave Mustaine,Capitol,Metal,Thrash Metal
+Rust In Peace,Megadeth,1990,Dave Mustaine,David Ellefson,Marty Friedman,Nick Menza,0,0,0,0,0,Dave Mustaine & Mike Clink,Capitol,Metal,Thrash Metal
+Countdown to Extinction,Megadeth,1992,Dave Mustaine,David Ellefson,Marty Friedman,Nick Menza,0,0,0,0,0,Max Norman & Dave Mustaine,Capitol,Metal,Heavy Metal
+Youthanasia,Megadeth,1994,Dave Mustaine,David Ellefson,Marty Friedman,Nick Menza,0,0,0,0,0,Max Norman,Capitol,Metal,Heavy Metal
+Cryptic Writings,Megadeth,1997,Dave Mustaine,David Ellefson,Marty Friedman,Nick Menza,0,0,0,0,0,Dann Huff & Dave Mustaine,Capitol,Metal,Heavy Metal
+Risk,Megadeth,1999,Dave Mustaine,David Ellefson,Marty Friedman,Jimmy DeGrasso,0,0,0,0,0,Dann Huff,Capitol,Rock,Hard Rock
+Among The Living,Anthrax,1987,Joey Belladonna,Scott Ian,Dan Spitz,Frank Bello,Charlie Benante,0,0,0,0,Eddie Kramer,Megaforce & Island,Metal,Thrash Metal
+State of Euphoria,Anthrax,1988,Joey Belladonna,Scott Ian,Charlie Benante,Dan Spitz,Frank Bello,0,0,0,0,Mark Dodson & Anthrax,Megaforce & Island,Metal,Thrash Metal
+Persistence of Time,Anthrax,1990,Joey Belladonna,Scott Ian,Dan Spitz,Frank Bello,Charlie Benante,0,0,0,0,Mark Dodson & Anthrax,Megaforce & Island,Metal,Thrash Metal
+Elephant,The White Stripes,2003,Jack White,Meg White,0,0,0,0,0,0,0,Jack White,V2 & XL,Rock,Alternative Rock
+British Steel,Judas Priest,1980,Rob Halford,K. K. Downing,Glenn Tipton,Ian Hill,Dave Holland,0,0,0,0,Tom Allom,Columbia,Metal,Heavy Metal
+The Number Of The Beast,Iron Maiden,1982,Bruce Dickinson,Dave Murray,Adrian Smith,Steve Harris,Clive Burr,0,0,0,0,Martin Birch,EMI,Metal,Heavy Metal
+Paranoid,Black Sabbath,1970,Ozzy Osbourne,Tony Iommi,Geezer Butler,Bill Ward,0,0,0,0,0,Rodger Bain,Vertigo,Metal,Heavy Metal
+Vulgar Display of Power,Pantera,1992,Phil Anselmo,Dimebag Darrell,Rex Brown,Vinnie Paul,0,0,0,0,0,Terry Date & Vinnie Paul,Atco,Metal,Groove Metal
+Far Beyond Driven,Pantera,1994,Phil Anselmo,Dimebag Darrell,Rex Brown,Vinnie Paul,0,0,0,0,0,Terry Date,EastWest,Metal,Groove Metal
+Dirt,Alice In Chains,1992,Layne Staley,Jerry Cantrell,Mike Starr,Sean Kinney,0,0,0,0,0,Dave Jerden & Alice In Chains,Columbia,Metal,Alternative Metal
+Alice In Chains,Alice In Chains,1995,Layne Staley,Jerry Cantrell,Sean Kinney,Mike Inez,0,0,0,0,0,Toby Wright & Alice In Chains,Columbia,Metal,Alternative Metal
+Prophecy,Soulfly,2004,Max Cavalera,Marc Rizzo,Bobby Burns,David Ellefson,Joe Nunez,0,0,0,0,Max Cavalera,Roadrunner,Metal,Groove Metal
+The Art of War,Sabaton,2008,Joakim Broden,Rickard Sunden,Oskar Montelius,Par Sundstrom,Daniel Mullback,Daniel Myhr,0,0,0,Sabaton,Black Lodge Records,Metal,Power Metal
+Burn My Eyes,Machine Head,1994,Robb Flynn,Logan Mader,Adam Duce,Chris Kontos,0,0,0,0,0,Colin Richardson,Roadrunner,Metal,Groove Metal
+The More Things Change...,Machine Head,1997,Robb Flynn,Logan Mader,Dave McClain,Adam Duce,0,0,0,0,0,Colin Richardson,Roadrunner,Metal,Groove Metal
+Arise,Sepultura,1991,Max Cavalera,Igor Cavalera,Paulo Jr.,Andreas Kisser,0,0,0,0,0,Sepultura & Scott Burns,Roadrunner,Metal,Thrash Metal
+Target Earth,Voivod,2013,Denis "Snake" Belanger,Daniel "Chewy" Mongrain,Jean-Yves "Blacky" Theriault,Michel "Away" Langevin,0,0,0,0,0,Voivod,Century Media Records,Metal,Thrash Metal
+Terra Incognita,Gojira,2001,Joe Duplantier,Mario Duplantier,Christian Andreu,Jean-Michel Labadie,0,0,0,0,0,Gojira,Gabriel Editions,Metal,Technical Death Metal
+The Link,Gojira,2003,Joe Duplantier,Mario Duplantier,Christian Andreu,Jean-Michel Labadie,0,0,0,0,0,Gojira,Boycott & Listenable,Metal,Technical Death Metal
+From Mars To Sirius,Gojira,2005,Joe Duplantier,Mario Duplantier,Christian Andreu,Jean-Michel Labadie,0,0,0,0,0,Gojira,Listenable & Prosthetic,Metal,Progressive Death Metal
+The Way of All Flesh,Gojira,2008,Joe Duplantier,Mario Duplantier,Christian Andreu,Jean-Michel Labadie,Randy Blythe (goscinnie),0,0,0,0,Joe Duplantier,Listenable & Prosthetic,Metal,Progressive Death Metal
+Rareform,After The Burial,2008,Grant Luoma,Lerichar "Lee" Foral,Trent Hafdahl,Justin Lowe,Dan Carle,Anthony Notarmaso (Re-Release),0,0,0,Trent Hafdahl & Justin Lowe,Sumerian,Metal,Progressive Metal
+Fortress,Alter Bridge,2013,Myles Kennedy,Mark Tremonti,Brian Marshall,Scott Phillips,0,0,0,0,0,Michael "Elvis" Baskette,Roadrunner & EMI,Metal,Heavy Metal
+Hatebreeder,Children of Bodom,1999,Alexi Laiho,Alexander Kuoppala,Janne Wirman,Henkka Seppala,Jaska Raatikainen,0,0,0,0,Anssi Kippo,Spinefarm Records & Nuclear Blast,Metal,Melodic Death Metal
+Leprosy,Death,1988,Chuck Schuldiner,Rick Rozz,Bill Andrews,0,0,0,0,0,0,Dan Johnson,Combat & Relapse,Metal,Death Metal
+Organic Hallucinosis,Decapitated,2006,Wacˆaw "Vogg" Kieˆtyka,Witold "Witek" Kieˆtyka,Adrian "Covan" Kowanek,Marcin "Martin" Rygiel,0,0,0,0,0,Decapitated,Earache & Teichiku & Soyuz Music,Metal,Technical Death Metal
+Bonded By Blood,Exodus,1985,Paul Baloff,Gary Holt,Rick Hunolt,Rob McKillop,Tom Hunting,0,0,0,0,Mark Whitaker,Torrid / Combat,Metal,Thrash Metal
+Demanufacture,Fear Factory,1995,Burton C. Bell,Dino Cazares,Raymon Herrera,Christian Olde Wolbers,0,0,0,0,0,Colin Richardson & Rhys Fulber,Roadrunner,Metal,Industrial Metal
+Obsolete,Fear Factory,1998,Burton C. Bell,Dino Cazares,Christian Olde Wolbers,Raymond Herrera,0,0,0,0,0,Fear Factory & Rhys Fulber,Roadrunner,Metal,Industrial Metal
+Ashes of the Wake,Lamb of God,2004,Randy Blythe,Mark Morton,Willie Adler,John Campbell,Chris Adler,0,0,0,0,Machine & Lamb of God,Epic & Prosthetic,Metal,Groove Metal
+Nothing,Meshuggah,2002,Jens Kidman,Fredrik Thordendal,Marten Hagstrom,Tomas Haake,0,0,0,0,0,Meshuggah,Nuclear Blast,Metal,Extreme Metal
+Songs for the Deaf,Queens of the Stone Age,2002,Josh Homme,Nick Oliveri,Mark Lanegan,Dave Grohl,0,0,0,0,0,Josh Homme & Adam Kasper,Interscope,Rock,Hard Rock
+Slaughter of The Soul,At The Gates,1995,Tomas Lindberg,Anders Bjorler,Martin Larsson,Jonas Bjorler,Adrian Erlandsson,0,0,0,0,Fredrik Norstrom,Earache,Metal,Melodic Death Metal
+Lateralus,Tool,2001,Maynard James Keenan,Adam Jones,Justin Chancellor,Danny Carey,0,0,0,0,0,David Bottrill & Tool,Volcano Entertainment,Metal,Progressive Metal
+The Dark Side of the Moon,Pink Floyd,1973,David Gilmour,Nick Mason,Richard Wright,Roger Waters,0,0,0,0,0,Pink Floyd,Harvest,Rock,Progressive Rock
+L.A. Woman,The Doors,1971,Jim Morrison,Ray Manzarek,Robby Krieger,John Densmore,0,0,0,0,0,Bruce Botnick,Elektra,Rock,Blues Rock
